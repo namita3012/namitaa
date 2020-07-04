@@ -1,0 +1,5 @@
+{
+    "css.completion.triggerPropertyValueCompletion": false,
+    "git.fetchOnPull": true,
+    "git.autofetch": true
+}
